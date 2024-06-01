@@ -50,8 +50,7 @@
 - 회사별 새로운 인사이트 기대
 - 제목과 본문을 모두 활용한 토픽 추출
 - ex) 넷마블 LDA 시각화
-<img src="image.png" alt="LDA 토픽 모델링 시각화" width="600"/>
- ![LDA 토픽 모델링 시각화](Analysis_picture/넷마블_LDA.png)
+<img src="Analysis_picture/넷마블_LDA.png" alt="LDA 토픽 모델링 시각화" width="600"/>
 
 ### 📊 **3) 유사도 분석**
 - 게임사별 전략과 특징 비교
