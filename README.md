@@ -56,7 +56,7 @@
 ### 📊 **3) 유사도 분석**
 - 게임사별 전략과 특징 비교
 - 중요 단어를 사용한 자카드, 코사인 유사도 분석
-- ex) Contents 유사도 시각화
+- ex) Contents Jaccard 유사도 시각화
 <img src="Analysis_picture/BODY_자카드유사도.png" alt="유사도 분석 시각화" width="600"/>
 
 ---
